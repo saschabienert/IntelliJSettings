@@ -184,8 +184,10 @@
   <action id="ShowUmlDiagramPopup" />
   <action id="SmartSelect" />
   <action id="Stop">
-    <keyboard-shortcut first-keystroke="meta f2" />
     <keyboard-shortcut first-keystroke="meta escape" />
+  </action>
+  <action id="StopBackgroundProcesses">
+    <keyboard-shortcut first-keystroke="shift meta escape" />
   </action>
   <action id="Switcher" />
   <action id="TableResult.GrowSelection" />
