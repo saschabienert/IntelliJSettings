@@ -199,5 +199,8 @@
   <action id="Vcs.Log.GoToRef" />
   <action id="Vcs.Log.Refresh" />
   <action id="hg4idea.QRefresh" />
+  <action id="linessorter.sort">
+    <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
   <action id="openAssertEqualsDiff" />
 </keymap>
