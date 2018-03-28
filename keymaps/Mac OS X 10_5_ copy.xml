@@ -101,6 +101,9 @@
     <keyboard-shortcut first-keystroke="meta #10000a7" />
   </action>
   <action id="ImplementMethods" />
+  <action id="Inline">
+    <keyboard-shortcut first-keystroke="meta alt i" />
+  </action>
   <action id="InspectCode">
     <keyboard-shortcut first-keystroke="meta u" />
   </action>
