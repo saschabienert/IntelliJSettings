@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../mock-adapter/src/main/res/values/strings.xml [mock-adapter]'" />
-    <option name="defaultScopeName" value="File '.../mock-adapter/src/main/res/values/strings.xml [mock-adapter]'" />
-    <option name="SEARCH_SCOPE" value="File '.../mock-adapter/src/main/res/values/strings.xml [mock-adapter]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>

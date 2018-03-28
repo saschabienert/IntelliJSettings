@@ -51,6 +51,7 @@
   <action id="Console.Jpa.GenerateSql" />
   <action id="Console.TableResult.CloneRow" />
   <action id="Console.TableResult.CompareCells" />
+  <action id="Console.TableResult.FindInGrid" />
   <action id="Console.TableResult.NextPage" />
   <action id="Console.TableResult.PreviousPage" />
   <action id="Console.TableResult.Reload" />
@@ -79,6 +80,7 @@
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoProject" />
   <action id="FileChooser.TogglePathShowing" />
+  <action id="Find" />
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="ctrl meta right" />
@@ -159,7 +161,9 @@
     <keyboard-shortcut first-keystroke="meta alt e" />
     <keyboard-shortcut first-keystroke="ctrl meta e" />
   </action>
-  <action id="Replace" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="meta f" />
+  </action>
   <action id="ReplaceInPath" />
   <action id="Rerun" />
   <action id="Resume">
@@ -187,6 +191,7 @@
   <action id="TableResult.GrowSelection" />
   <action id="TagDocumentationNavigation" />
   <action id="Uml.ShowDiff" />
+  <action id="Vcs.Log.GoToRef" />
   <action id="Vcs.Log.Refresh" />
   <action id="hg4idea.QRefresh" />
   <action id="openAssertEqualsDiff" />
