@@ -1,4 +1,4 @@
-<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+<keymap version="1" name="Mac OS X 10.5+ 2018.1" parent="Mac OS X 10.5+">
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
