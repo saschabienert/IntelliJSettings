@@ -4,7 +4,7 @@
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
   <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="shift meta #10000a7" />
+    <keyboard-shortcut first-keystroke="alt tab" />
   </action>
   <action id="Android.ChooseProfileConfiguration">
     <keyboard-shortcut first-keystroke="meta p" />
@@ -97,6 +97,9 @@
   </action>
   <action id="GotoSuperMethod" />
   <action id="GuiDesigner.ExpandSelection" />
+  <action id="HideActiveWindow">
+    <keyboard-shortcut first-keystroke="shift meta #10000a7" />
+  </action>
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="meta #10000a7" />
   </action>
@@ -134,6 +137,7 @@
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
   <action id="NextOccurence" />
+  <action id="NextSplitter" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl tab" />
   </action>
@@ -145,6 +149,7 @@
   <action id="PopupHector">
     <keyboard-shortcut first-keystroke="ctrl meta alt u" />
   </action>
+  <action id="PrevSplitter" />
   <action id="PreviousOccurence" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
@@ -195,6 +200,9 @@
   <action id="Switcher" />
   <action id="TableResult.GrowSelection" />
   <action id="TagDocumentationNavigation" />
+  <action id="Terminal.OpenInTerminal">
+    <keyboard-shortcut first-keystroke="shift alt tab" />
+  </action>
   <action id="Uml.ShowDiff" />
   <action id="Vcs.Log.GoToRef" />
   <action id="Vcs.Log.Refresh" />
