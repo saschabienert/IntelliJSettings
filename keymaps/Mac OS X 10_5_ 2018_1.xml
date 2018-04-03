@@ -1,10 +1,10 @@
-<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+<keymap version="1" name="Mac OS X 10.5+ 2018.1" parent="Mac OS X 10.5+">
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
   <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="alt tab" />
+    <keyboard-shortcut first-keystroke="shift meta #10000a7" />
   </action>
   <action id="Android.ChooseProfileConfiguration">
     <keyboard-shortcut first-keystroke="meta p" />
@@ -97,13 +97,13 @@
   </action>
   <action id="GotoSuperMethod" />
   <action id="GuiDesigner.ExpandSelection" />
-  <action id="HideActiveWindow">
-    <keyboard-shortcut first-keystroke="shift meta #10000a7" />
-  </action>
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="meta #10000a7" />
   </action>
   <action id="ImplementMethods" />
+  <action id="Inline">
+    <keyboard-shortcut first-keystroke="meta alt i" />
+  </action>
   <action id="InspectCode">
     <keyboard-shortcut first-keystroke="meta u" />
   </action>
@@ -134,7 +134,6 @@
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
   <action id="NextOccurence" />
-  <action id="NextSplitter" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl tab" />
   </action>
@@ -146,7 +145,6 @@
   <action id="PopupHector">
     <keyboard-shortcut first-keystroke="ctrl meta alt u" />
   </action>
-  <action id="PrevSplitter" />
   <action id="PreviousOccurence" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift ctrl tab" />
@@ -197,12 +195,12 @@
   <action id="Switcher" />
   <action id="TableResult.GrowSelection" />
   <action id="TagDocumentationNavigation" />
-  <action id="Terminal.OpenInTerminal">
-    <keyboard-shortcut first-keystroke="shift alt tab" />
-  </action>
   <action id="Uml.ShowDiff" />
   <action id="Vcs.Log.GoToRef" />
   <action id="Vcs.Log.Refresh" />
   <action id="hg4idea.QRefresh" />
+  <action id="linessorter.sort">
+    <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
   <action id="openAssertEqualsDiff" />
 </keymap>
