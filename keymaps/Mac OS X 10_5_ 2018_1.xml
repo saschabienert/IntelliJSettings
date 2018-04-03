@@ -4,7 +4,7 @@
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
   <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="alt tab" />
+    <keyboard-shortcut first-keystroke="alt #10000a7" />
   </action>
   <action id="Android.ChooseProfileConfiguration">
     <keyboard-shortcut first-keystroke="meta p" />
@@ -201,7 +201,7 @@
   <action id="TableResult.GrowSelection" />
   <action id="TagDocumentationNavigation" />
   <action id="Terminal.OpenInTerminal">
-    <keyboard-shortcut first-keystroke="shift alt tab" />
+    <keyboard-shortcut first-keystroke="shift alt #10000a7" />
   </action>
   <action id="Uml.ShowDiff" />
   <action id="Vcs.Log.GoToRef" />
