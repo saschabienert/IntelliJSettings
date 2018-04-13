@@ -66,6 +66,9 @@
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="DuplicatesForm.SendToRight" />
+  <action id="EditSource">
+    <mouse-shortcut keystroke="button1" />
+  </action>
   <action id="EditorChooseLookupItemCompleteStatement" />
   <action id="EditorCompleteStatement" />
   <action id="EditorDuplicate" />
