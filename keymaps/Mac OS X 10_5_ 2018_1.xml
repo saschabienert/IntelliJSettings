@@ -53,6 +53,7 @@
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
+  <action id="ClassTemplateNavigation" />
   <action id="CleanGradleProject">
     <keyboard-shortcut first-keystroke="meta alt b" />
     <keyboard-shortcut first-keystroke="shift meta alt k" />
@@ -63,6 +64,7 @@
   <action id="CodeCleanup">
     <keyboard-shortcut first-keystroke="shift meta alt u" />
   </action>
+  <action id="CodeGlance.toggle" />
   <action id="CompareTwoFiles" />
   <action id="CompileDirty">
     <keyboard-shortcut first-keystroke="meta b" />
@@ -107,12 +109,17 @@
   <action id="FileChooser.GotoProject" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="Find" />
+  <action id="FindPrevious" />
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="ctrl meta right" />
   </action>
   <action id="Generate.Missing.Members.ES6" />
   <action id="Generate.Missing.Members.TypeScript" />
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="shift meta g" />
+  </action>
+  <action id="GoToClass" />
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="meta button1" />
     <keyboard-shortcut first-keystroke="ctrl meta alt right" />
