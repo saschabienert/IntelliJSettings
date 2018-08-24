@@ -1,16 +1,14 @@
 <keymap version="1" name="Mac OS X 10.5+ 2018.1" parent="Mac OS X 10.5+">
   <action id="ActivateBuildToolWindow">
-    <keyboard-shortcut first-keystroke="meta 8" />
+    <keyboard-shortcut first-keystroke="meta 3" />
   </action>
   <action id="ActivateEventLogToolWindow">
     <keyboard-shortcut first-keystroke="meta 9" />
   </action>
-  <action id="ActivateFavoritesToolWindow">
-    <keyboard-shortcut first-keystroke="meta 3" />
-  </action>
+  <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow" />
   <action id="ActivateLogcatToolWindow">
-    <keyboard-shortcut first-keystroke="meta 7" />
+    <keyboard-shortcut first-keystroke="meta 6" />
   </action>
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
@@ -20,7 +18,7 @@
     <keyboard-shortcut first-keystroke="meta 0" />
   </action>
   <action id="ActivateVersionControlToolWindow">
-    <keyboard-shortcut first-keystroke="meta 6" />
+    <keyboard-shortcut first-keystroke="meta 7" />
   </action>
   <action id="Android.ChooseProfileConfiguration">
     <keyboard-shortcut first-keystroke="meta p" />
