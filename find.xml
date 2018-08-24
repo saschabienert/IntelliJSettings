@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '~/Code/android-sdk/src/main/java/com/heyzap/sdk/ads/HeyzapAds.java [heyzap-sdk]'" />
-    <option name="defaultScopeName" value="File '~/Code/android-sdk/src/main/java/com/heyzap/sdk/ads/HeyzapAds.java [heyzap-sdk]'" />
-    <option name="SEARCH_SCOPE" value="File '~/Code/android-sdk/src/main/java/com/heyzap/sdk/ads/HeyzapAds.java [heyzap-sdk]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
