@@ -65,11 +65,15 @@
     <keyboard-shortcut first-keystroke="shift meta alt u" />
   </action>
   <action id="CodeGlance.toggle" />
+  <action id="Compare.Selected">
+    <keyboard-shortcut first-keystroke="shift meta alt enter" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="CompileDirty">
     <keyboard-shortcut first-keystroke="meta b" />
   </action>
   <action id="Console.History.Browse" />
+  <action id="Console.Jpa.GenerateDDL" />
   <action id="Console.Jpa.GenerateSql" />
   <action id="Console.TableResult.CloneRow" />
   <action id="Console.TableResult.ColumnSortReset" />
@@ -78,6 +82,7 @@
   <action id="Console.TableResult.NextPage" />
   <action id="Console.TableResult.PreviousPage" />
   <action id="Console.TableResult.Reload" />
+  <action id="Console.Transaction.Commit" />
   <action id="ConvertJavaToKotlin" />
   <action id="DatabaseView.CopyAction" />
   <action id="DatabaseView.PropertiesAction" />
