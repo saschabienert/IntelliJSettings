@@ -56,7 +56,6 @@
   <action id="ClassTemplateNavigation" />
   <action id="CleanGradleProject">
     <keyboard-shortcut first-keystroke="meta alt b" />
-    <keyboard-shortcut first-keystroke="shift meta alt k" />
   </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift meta w" />
@@ -157,6 +156,9 @@
   </action>
   <action id="InspectCode">
     <keyboard-shortcut first-keystroke="meta u" />
+  </action>
+  <action id="InvalidateCaches">
+    <keyboard-shortcut first-keystroke="shift meta alt k" />
   </action>
   <action id="Jdbc.OpenEditor.DDL">
     <mouse-shortcut keystroke="meta button1" />
