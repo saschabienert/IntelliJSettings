@@ -112,7 +112,9 @@
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
   <action id="FileChooser.TogglePathShowing" />
-  <action id="Find" />
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
   <action id="FindPrevious" />
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
