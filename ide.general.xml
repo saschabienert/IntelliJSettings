@@ -11,5 +11,6 @@
     <entry key="ide.tooltip.initialDelay" value="0" />
     <entry key="SBT.system.in.process" value="true" />
     <entry key="BSP.system.in.process" value="true" />
+    <entry key="dart.projects.without.pubspec" value="true" />
   </component>
 </application>
